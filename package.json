@@ -1,0 +1,14 @@
+{
+  "name": "cryptodistrib",
+  "version": "1.0.0",
+  "main": "distributeTokensIND.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Территория Инвестирования",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "hardhat": "^2.22.15"
+  }
+}
