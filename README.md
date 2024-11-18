@@ -1,4 +1,4 @@
-### 1. Заполнить .env файл 
+### 1. Создать и заполнить файл _.env_ 
 в корне репозитория, контент:
 ```dotenv
 CUSTOM_RPC_URL=https://bsc-dataseed.binance.org/
