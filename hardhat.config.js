@@ -1,6 +1,8 @@
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
+require('dotenv').config();
+require("@nomiclabs/hardhat-ethers");
 
 
 const CUSTOM_RPC_URL = process.env.CUSTOM_RPC_URL || "";
